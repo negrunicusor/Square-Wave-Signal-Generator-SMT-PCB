@@ -1,0 +1,28 @@
+  Revised: Wednesday, December 10, 2025
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials       December 13,2025      15:36:01	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	2	C1,C2	33n
+2	1	C3	4.7p
+3	1	C4	4.7u
+4	2	D1,D2	LED
+5	6	Q1,Q2,Q5,Q6,Q8,Q9	QBC846B
+6	4	Q3,Q4,Q7,Q10	QBC856B
+7	3	R1,R12,R13	8.2k
+8	3	R2,R3,R15	10k
+9	3	R4,R10,R14	100
+10	4	R5,R6,R7,R8	51
+11	1	R9	22
+12	1	R11	22k
+13	4	R16,R17,R18,R19	220
+14	1	U1	1N4148
